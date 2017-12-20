@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  DarioLiamProject.cpp
+c:\users\dario\source\repos\darioliamproject\darioliamproject\darioliamproject.cpp(11): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+c:\users\dario\source\repos\darioliamproject\darioliamproject\darioliamproject.cpp(102): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+  DarioLiamProject.vcxproj -> C:\Users\Dario\source\repos\DarioLiamProject\Debug\DarioLiamProject.exe
